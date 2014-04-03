@@ -527,7 +527,7 @@ ul.flex-direction-nav li {list-style-type: none; margin: none; padding: none;}
 }
 
 @media only screen and (max-width: 767px) {
-  .toggle,.toggle-box{display: none;}
+  /*.toggle,.toggle-box{display: none;}*/
   #services .grid-item {margin-right: auto; margin-left: auto;}
   .gform_wrapper .top_label input.medium, 
   .gform_wrapper .top_label select.medium {width: 90% !important;}
